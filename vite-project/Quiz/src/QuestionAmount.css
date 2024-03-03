@@ -1,0 +1,9 @@
+.quiz-options-container {
+    display: flex;
+    padding: 0;
+    gap: 1rem;
+}
+
+.active {
+    background: lightcyan;
+}
